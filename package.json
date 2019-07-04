@@ -1,0 +1,25 @@
+{
+  "name": "create-shopify-theme",
+  "version": "1.0.0",
+  "description": "Create Shopify theme development environment in one command.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixelcabin/create-shopify-theme.git"
+  },
+  "keywords": [
+    "Shopify"
+  ],
+  "author": "Sheenan Tenepre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixelcabin/create-shopify-theme/issues"
+  },
+  "homepage": "https://github.com/pixelcabin/create-shopify-theme#readme",
+  "dependencies": {
+    "commander": "^2.20.0"
+  }
+}
