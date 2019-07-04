@@ -1,0 +1,9 @@
+/.idea
+/.sass-cache
+/node_modules
+credentials.json
+/shop/assets/application.css
+/shop/assets/application.css.map
+npm-debug.log
+/shop/assets/app.min.js
+/shop/assets/app.min.js.map
